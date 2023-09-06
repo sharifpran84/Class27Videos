@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .container {
-    width: 1370px;
+    width: 85%;
     margin: 0px auto;
 }
 img {
@@ -77,11 +77,12 @@ img {
     font-size: 30px;
     color: white;
     border-radius: 5px;
+    text-align: center;
 }
 .sliderText h1 {
     background: rgb(126, 187, 228);
     color: white;
-    width: 550px;
+    width: 43%;
     margin: 15px auto auto;
     font-size: 31px;
     padding: 15px;
@@ -95,15 +96,13 @@ img {
     text-align: center;
     padding: 50px;
 }
-.about h2 {
-}
 .about h1 {
     text-transform: capitalize;
     font-size: 40px;
     margin-bottom: 15px;
 }
 .about p {
-    width: 1000px;
+    width: 70%;
     margin: auto;
     text-align: justify;
 }
